@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/yosukei3108/anzen-kaizen-guide/issues"
   },
-  "homepage": "https://github.com/yosukei3108/anzen-kaizen-guide#readme"
+  "homepage": "https://github.com/yosukei3108/anzen-kaizen-guide#readme",
+  "devDependencies": {
+    "jest": "^29.4.2",
+    "jest-image-snapshot": "^6.1.0",
+    "jest-puppeteer": "^7.0.0",
+    "puppeteer": "^19.6.3"
+  }
 }
